@@ -1,0 +1,26 @@
+section{
+    width: 195px;
+    height: 205x;
+    background: rgba(7, 0, 0, 0.43);
+    border-radius: 5px;
+    margin-left:40%;
+}
+section > button{
+    margin: 5px;
+    width: 34.73px;
+    height: 38px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section>div{
+    
+    border: 1px solid #D3D3D3;
+    height: 50px;
+    width: 195px;
+    background: #E3E2E2;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 5px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
